@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋, I'm Shivansh Giri
 
-<!--
-**girishivansh/girishivansh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CS & Data Analytics Student at **IIT Patna**
+💻 Aspiring **Software Engineer**
+🚀 Currently focusing on **C++ | Data Structures & Algorithms | Full Stack Development**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+* 🌱 Currently learning **Advanced DSA and Full Stack Development**
+* 💡 Interested in **AI, Web Development, and System Design**
+* 🎯 Goal: To become a **Software Engineer at top tech companies**
+* ⚡ I enjoy building real-world projects and solving coding problems
+
+---
+
+## Skills
+
+* **Languages:** C++, JavaScript, Python
+* **Frontend:** HTML, CSS, React
+* **Backend:** Node.js, Express
+* **Database:** MongoDB
+* **Tools:** Git, GitHub, VS Code
+
+---
+
+## Currently Working On
+
+* Improving **Data Structures & Algorithms**
+* Building **Full Stack Projects**
+* Exploring **AI and modern web technologies**
+
+---
+
+
