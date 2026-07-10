@@ -38,7 +38,7 @@
   <a href="https://www.linkedin.com/in/shivanshgiri/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
-  <a href="https://shivanshgiriportfolio.netlify.app/" target="_blank">
+  <a href="https://shivanshgiri.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="portfolio" />
   </a>
   <a href="mailto:shivanshgiri.official@gmail.com" target="_blank">
